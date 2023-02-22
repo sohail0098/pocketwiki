@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "607650387367",
+    "project_id": "easywiki-a492e",
+    "storage_bucket": "easywiki-a492e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607650387367:android:eac8bdbeb3343b8f7c9282",
+        "android_client_info": {
+          "package_name": "com.group3.pocketwiki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607650387367-e6g7bttac6qj4ua8t9kcukrhc2hs5i3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxGdLd0Sp_qclvbNs9swMF0n4f9oOmXc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607650387367-e6g7bttac6qj4ua8t9kcukrhc2hs5i3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PocketWiki</string>
+    <string name="title_activity_main">PocketWiki</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_history">History</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_registered_sign_in">Already Registered? Sign In!</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet? Sign Up!</string>
+    <string name="sign_in">Sign In</string>
+</resources>
